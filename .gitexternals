@@ -1,0 +1,4 @@
+[external "subrepo1"]
+	path = subrepo1
+	url = https://github.com/sasidhar-awsdevops/subrepo1.git
+	branch = master
